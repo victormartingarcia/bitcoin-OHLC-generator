@@ -45,7 +45,7 @@ bitcoin spot exchanges:
 __This is the approach I followed__ to build this script, creating a tool that generates "official"
 historical OHLC candlestick data. 
 
-(img agregated)
+![Aggregation](media/BTCUSD_aggregation.png?raw=true "Bitcoin aggregation")
 
 I hope you find this usefule. 
 
