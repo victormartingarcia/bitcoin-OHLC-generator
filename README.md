@@ -47,8 +47,6 @@ historical OHLC candlestick data.
 
 ![Aggregation](media/BTCUSD_aggregation.png?raw=true "Bitcoin aggregation")
 
-I hope you find this usefule. 
-
-__Enjoy the ride!__
+I hope you find this useful. __Enjoy the ride!__
 
 ![Bitcoin explosive growth](media/BTCUSD.png?raw=true "Bitcoin explosive growth")
